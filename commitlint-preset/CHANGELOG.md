@@ -1,3 +1,11 @@
+## [1.0.3](https://github.com/catchfashion/node-standard/compare/commitlint-preset-v1.0.2...commitlint-preset-v1.0.3) (2020-11-09)
+
+
+### Bug Fixes
+
+* **commitlint-preset:** trigger release ([3e0a56b](https://github.com/catchfashion/node-standard/commit/3e0a56b6d7cfe7340a78ccc463b650170b3fd201))
+* release forked project ([#2](https://github.com/catchfashion/node-standard/issues/2)) ([591fda5](https://github.com/catchfashion/node-standard/commit/591fda544546fa7b5141b224cc2e16161626685c))
+
 ## [1.0.2](https://github.com/catchfashion/node-standard/compare/commitlint-preset-v1.0.1...commitlint-preset-v1.0.2) (2020-09-20)
 
 
