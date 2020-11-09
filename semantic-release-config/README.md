@@ -1,18 +1,18 @@
-# @prescott/semantic-release-config
+# @catchfashion/semantic-release-config
 
-A common [semantic-release](https://github.com/semantic-release/semantic-release) configuration for personal TypeScript projects.
+A common [semantic-release](https://github.com/semantic-release/semantic-release) configuration for catchfashion TypeScript projects.
 
 ## Setup
 
 ```bash
-$ npm install @prescott/semantic-release-config --save-dev
+$ npm install @catchfashion/semantic-release-config --save-dev
 ```
 
 Add the following to `.releaserc.json`
 
 ```json
 {
-  "extends": "@prescott/semantic-release-config"
+  "extends": "@catchfashion/semantic-release-config"
 }
 ```
 
@@ -31,7 +31,7 @@ This is commonly used preset.
 
 ```json
 {
-  "extends": "@prescott/semantic-release-config"
+  "extends": "@catchfashion/semantic-release-config"
 }
 ```
 
@@ -54,7 +54,7 @@ Then, Use following semantic-release configuration:
 
 ```json
 {
-  "extends": ["semantic-release-commit-filter", "@prescott/semantic-release-config"],
+  "extends": ["semantic-release-commit-filter", "@catchfashion/semantic-release-config"],
   "tagFormat": "[PACKAGE_NAME]-v${version}"
 }
 ```

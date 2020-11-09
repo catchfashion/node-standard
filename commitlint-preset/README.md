@@ -1,6 +1,6 @@
-# @prescott/commitlint-preset
+# @catchfashion/commitlint-preset
 
-A common [commitlint](https://github.com/conventional-changelog/commitlint) preset for personal TypeScript projects.
+A common [commitlint](https://github.com/conventional-changelog/commitlint) preset for catchfashion TypeScript projects.
 
 ## IMPORTANT NnOTE
 
@@ -18,7 +18,7 @@ Follow these instructions.
 In this setup, You have to install additional [`husky`](https://github.com/typicode/husky) dependency. 
 
 ```bash
-$ npm install @prescott/commitlint-preset husky --save-dev
+$ npm install @catchfashion/commitlint-preset husky --save-dev
 ```
 
 Add the following to `package.json`
@@ -37,7 +37,7 @@ Add the following to `package.json`
   },
   "commitlint": {
     "extends": [
-      "@prescott/commitlint-preset"
+      "@catchfashion/commitlint-preset"
     ]
   }
 }
@@ -64,7 +64,7 @@ Add the following to `package.json`
   },
   "commitlint": {
     "extends": [
-      "@prescott/commitlint-preset"
+      "@catchfashion/commitlint-preset"
     ]
   }
 }

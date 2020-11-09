@@ -1,17 +1,17 @@
-# @prescott/tslint-preset
+# @catchfashion/tslint-preset
 
-A common TSLint preset for personal TypeScript projects
+A common TSLint preset for catchfashion TypeScript projects
 
 ## Setup
 
 ```bash
-$ npm install @prescott/tslint-preset --save-dev
+$ npm install @catchfashion/tslint-preset --save-dev
 ```
 
 Add the following to `tslint.json`
 
 ```json
 {
-  "extends": ["@prescott/tslint-preset"]
+  "extends": ["@catchfashion/tslint-preset"]
 }
 ```

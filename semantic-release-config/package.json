@@ -1,11 +1,11 @@
 {
-  "name": "@prescott/semantic-release-config",
+  "name": "@catchfashion/semantic-release-config",
   "private": false,
   "publishConfig": {
     "access": "public"
   },
   "version": "1.0.1",
-  "description": "semantic-release configuration for personal projects",
+  "description": "semantic-release configuration for catchfashion projects",
   "main": "semantic-release.json",
   "files": [
     "semantic-release.json"
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mooyoul/node-standard.git"
+    "url": "git+https://github.com/catchfashion/node-standard.git"
   },
   "keywords": [
     "semantic-release"
@@ -23,9 +23,9 @@
   "author": "MooYeol Prescott Lee <mooyoul@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mooyoul/node-standard/issues"
+    "url": "https://github.com/catchfashion/node-standard/issues"
   },
-  "homepage": "https://github.com/mooyoul/node-standard#readme",
+  "homepage": "https://github.com/catchfashion/node-standard#readme",
   "dependencies": {
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/commit-analyzer": "^8.0.1",
