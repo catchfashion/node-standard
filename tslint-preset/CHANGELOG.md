@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/catchfashion/node-standard/compare/tslint-preset-v1.0.1...tslint-preset-v1.0.2) (2020-11-09)
+
+
+### Bug Fixes
+
+* **tslint-preset:** trigger release ([50fa737](https://github.com/catchfashion/node-standard/commit/50fa73799ed697db97f0af6a4091ddc9d32acc42))
+* release forked project ([#2](https://github.com/catchfashion/node-standard/issues/2)) ([591fda5](https://github.com/catchfashion/node-standard/commit/591fda544546fa7b5141b224cc2e16161626685c))
+
 ## [1.0.1](https://github.com/catchfashion/node-standard/compare/tslint-preset-v1.0.0...tslint-preset-v1.0.1) (2020-09-01)
 
 
