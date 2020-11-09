@@ -15,3 +15,4 @@ Add the following to `tslint.json`
   "extends": ["@catchfashion/tslint-preset"]
 }
 ```
+
