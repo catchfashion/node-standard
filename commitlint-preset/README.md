@@ -116,3 +116,4 @@ $ npx run commitlint --from [COMMIT_SHA1] --to [COMMIT_SHA1]
 [`cz-cli`](https://github.com/commitizen/cz-cli) provides git extension to create semantic commits.
 
 Simply use `git cz` instead of using `git commit`.  
+
