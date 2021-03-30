@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/catchfashion/node-standard/compare/tslint-preset-v1.0.2...tslint-preset-v1.1.0) (2021-03-30)
+
+
+### Features
+
+* **tslint-preset:** add no-implicit-dependencies rule ([8d2dcd9](https://github.com/catchfashion/node-standard/commit/8d2dcd90fd30302b80ff5134226f99c7b2581896))
+
 ## [1.0.2](https://github.com/catchfashion/node-standard/compare/tslint-preset-v1.0.1...tslint-preset-v1.0.2) (2020-11-09)
 
 
