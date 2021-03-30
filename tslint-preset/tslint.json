@@ -17,7 +17,8 @@
             "esSpecCompliant": true
         }],
         "arrow-parens": true,
-        "no-submodule-imports": true
+        "no-submodule-imports": true,
+        "no-implicit-dependencies": true
     },
     "rulesDirectory": []
 }
