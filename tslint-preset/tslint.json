@@ -18,7 +18,7 @@
         }],
         "arrow-parens": true,
         "no-submodule-imports": true,
-        "no-implicit-dependencies": true
+        "no-implicit-dependencies": [true, ["**/__test__/**"], "dev"]
     },
     "rulesDirectory": []
 }
