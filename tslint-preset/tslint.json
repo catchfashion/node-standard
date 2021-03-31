@@ -18,7 +18,11 @@
         }],
         "arrow-parens": true,
         "no-submodule-imports": true,
-        "no-implicit-dependencies": [true, ["**/__test__/**"], "dev"]
+        "no-implicit-dependencies": [
+            true,
+            ["**/__test__/**", "aws-sdk"],
+            "dev"
+        ]
     },
     "rulesDirectory": []
 }
