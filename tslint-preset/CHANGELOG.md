@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/catchfashion/node-standard/compare/tslint-preset-v1.1.1...tslint-preset-v1.1.2) (2021-03-31)
+
+
+### Bug Fixes
+
+* **tslint-preset:** add exception for aws-sdk in no-implicit-dependencies rule ([ca86c6f](https://github.com/catchfashion/node-standard/commit/ca86c6fe43388098583d62b190699309feb6e1c8))
+
 ## [1.1.1](https://github.com/catchfashion/node-standard/compare/tslint-preset-v1.1.0...tslint-preset-v1.1.1) (2021-03-31)
 
 
